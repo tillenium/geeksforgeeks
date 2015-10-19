@@ -1,0 +1,106 @@
+Write a C program that won’t compile in C++ ,http://www.geeksforgeeks.org/write-c-program-wont-compiler-c/
+Name Mangling and extern “C” in C++ ,http://www.geeksforgeeks.org/extern-c-in-c/
+How does “void *” differ in C and C++? ,http://www.geeksforgeeks.org/g-fact-12-2/
+Write a program that produces different results in C and C++,http://www.geeksforgeeks.org/write-c-program-produce-different-result-c/
+Type difference of character literals in C and C++,http://www.geeksforgeeks.org/g-fact-54/
+References in C++,http://www.geeksforgeeks.org/references-in-c/
+Can references refer to invalid location in C++? ,http://www.geeksforgeeks.org/g-fact-25/
+When do we pass arguments by reference or pointer?,http://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/
+Function Overloading in C++,http://geeksquiz.com/function-overloading-c/
+Functions that can’t be overloaded in C++,http://www.geeksforgeeks.org/function-overloading-in-c/
+Function overloading and const keyword ,http://www.geeksforgeeks.org/function-overloading-and-const-functions/
+Function overloading and return type ,http://www.geeksforgeeks.org/g-fact-75/
+Does overloading work with Inheritance?,http://www.geeksforgeeks.org/does-overloading-work-with-inheritance/
+Can main() be overloaded in C++?,http://www.geeksforgeeks.org/can-main-overloaded-c/
+Default Arguments in C++,http://geeksquiz.com/default-arguments-c/
+Inline Functions in C++,http://geeksquiz.com/inline-functions-cpp/
+malloc() vs new ,http://www.geeksforgeeks.org/malloc-vs-new/
+delete() and free() in C++,http://www.geeksforgeeks.org/g-fact-30/
+Introduction to Object Oriented Programming using C++,http://geeksquiz.com/basic-concepts-of-object-oriented-programming-using-c/
+Structure vs class in C++,http://www.geeksforgeeks.org/g-fact-76/
+Can a C++ class have an object of self type? ,http://www.geeksforgeeks.org/can-a-c-class-have-an-object-of-self-type/
+Why is the size of an empty class not zero in C++?,http://www.geeksforgeeks.org/why-is-the-size-of-an-empty-class-not-zero-in-c/
+Some interesting facts about static member functions in C++,http://www.geeksforgeeks.org/some-interesting-facts-about-static-member-functions-in-c/
+Static data members in C++,http://www.geeksforgeeks.org/stati/
+‘this’ pointer in C++,http://www.geeksforgeeks.org/this-pointer-in-c/
+Type of ‘this’ pointer in C++,http://www.geeksforgeeks.org/g-fact-77/
+“delete this” in C++,http://www.geeksforgeeks.org/delete-this-in-c/
+Constructors in C++,http://geeksquiz.com/constructors-c/
+Copy Constructor in C++,http://geeksquiz.com/copy-constructor-in-cpp/
+Destructors in C++,http://geeksquiz.com/destructors-c/
+Does compiler create default constructor when we write our own? ,http://www.geeksforgeeks.org/g-fact-26/
+When should we write our own copy constructor?,http://www.geeksforgeeks.org/g-fact-22/
+When is copy constructor called? ,http://www.geeksforgeeks.org/g-fact-13/
+Initialization of data members ,http://www.geeksforgeeks.org/g-fact-32/
+When do we use Initializer List in C++? ,http://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/
+Default Constructors ,http://www.geeksforgeeks.org/c-internals-default-constructors-set-1/
+Private Destructor,http://www.geeksforgeeks.org/private-destructor/
+Playing with Destructors in C++,http://www.geeksforgeeks.org/playing-with-destructors-in-c/
+Copy elision in C++,http://www.geeksforgeeks.org/copy-elision-in-c/
+C++ default constructor | Built-in types,http://www.geeksforgeeks.org/c-default-constructor-built-in-types/
+When does compiler create a default constructor and copy constructor in C++?,http://www.geeksforgeeks.org/does-compiler-always-create-a-copy-constructor/
+Why copy constructor argument should be const in C++? ,http://www.geeksforgeeks.org/copy-constructor-argument-const/
+Advanced C++ | Virtual Constructor,http://www.geeksforgeeks.org/advanced-c-virtual-constructor/
+Advanced C++ | Virtual Copy Constructor,http://www.geeksforgeeks.org/advanced-c-virtual-copy-constructor/
+C++ Internals | Default Constructors | Set 1,http://www.geeksforgeeks.org/c-internals-default-constructors-set-1/
+When are static objects destroyed? ,http://www.geeksforgeeks.org/static-objects-destroyed/
+Is it possible to call constructor and destructor explicitly?,http://www.geeksforgeeks.org/possible-call-constructor-destructor-explicitly/
+What all is inherited from parent class in C++?,http://www.geeksforgeeks.org/g-fact-4/
+Virtual Functions and Runtime Polymorphism in C++ ,http://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/
+Multiple Inheritance in C++,http://www.geeksforgeeks.org/multiple-inheritance-in-c/
+What happens when more restrictive access is given to a derived class method in C++?,http://www.geeksforgeeks.org/what-happens-when-more-restrictive-access-is-given-in-a-derived-class-method-in-c/
+Object Slicing in C++ ,http://www.geeksforgeeks.org/object-slicing-in-c/
+Hiding of all overloaded methods in base class,http://www.geeksforgeeks.org/g-fact-89/
+Friend class and function in C++,http://geeksquiz.com/friend-class-function-cpp/
+Inheritance and friendship,http://www.geeksforgeeks.org/g-fact-34/
+Virtual Functions and Runtime Polymorphism in C++ | Set 1 (Introduction),http://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/
+Default arguments and virtual function,http://www.geeksforgeeks.org/output-of-c-program-set-12-2/
+Virtual functions in derived classes ,http://www.geeksforgeeks.org/g-fact-36/
+Can static functions be virtual in C++?,http://www.geeksforgeeks.org/g-fact-29/
+Virtual Destructor,http://www.geeksforgeeks.org/g-fact-37/
+Virtual Constructor ,http://www.geeksforgeeks.org/advanced-c-virtual-constructor/
+Virtual Copy Constructor ,http://www.geeksforgeeks.org/advanced-c-virtual-copy-constructor/
+RTTI (Run-time type information) in C++,http://www.geeksforgeeks.org/g-fact-33/
+Can virtual functions be private in C++?,http://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/
+Inline virtual function,http://www.geeksforgeeks.org/inline-virtual-function/
+Pure Virtual Functions and Abstract Classes,http://geeksquiz.com/pure-virtual-functions-and-abstract-classes/
+Pure virtual destructor,http://www.geeksforgeeks.org/pure-virtual-destructor-c/
+Operator Overloading in C++,http://geeksquiz.com/operator-overloading-c/
+Copy constructor vs assignment operator in C++,http://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/
+When should we write our own assignment operator in C++? ,http://www.geeksforgeeks.org/assignment-operator-overloading-in-c/
+What are the operators that cannot be overloaded in C++? ,http://www.geeksforgeeks.org/g-fact-14/
+Use of explicit keyword in C++,http://www.geeksforgeeks.org/g-fact-93/
+Conversion Operators,http://www.geeksforgeeks.org/advanced-c-conversion-operators/
+Is assignment operator inherited? ,http://www.geeksforgeeks.org/is-assignment-operator-inherited-in-c/
+Default Assignment Operator and References,http://www.geeksforgeeks.org/default-assignment-operator-and-references/
+Pre-increment (or pre-decrement) in C++,http://www.geeksforgeeks.org/g-fact-40/
+Smart Pointers in C++,http://www.geeksforgeeks.org/smart-pointers-cpp/
+Overloading stream insertion (<<) and extraction (>>) operators,http://geeksquiz.com/overloading-stream-insertion-operators-c/
+Overloading array index operator [],http://geeksquiz.com/overloading-array-index-operator/
+Exception Handling in C++,http://www.geeksforgeeks.org/exception-handling-c/
+Stack Unwinding in C++ ,http://www.geeksforgeeks.org/stack-unwinding-in-c/
+Catching base and derived classes as exceptions ,http://www.geeksforgeeks.org/g-fact-60/
+Catch block and type conversion in C++,http://www.geeksforgeeks.org/catch-block-and-type-conversion-in-c/
+Exception handling and object destruction,http://www.geeksforgeeks.org/exception-handling-and-object-destruction-in-c-set-1/
+Templates in C++,http://geeksquiz.com/templates-cpp/
+Templates and Static variables in C++,http://www.geeksforgeeks.org/templates-and-static-variables-in-c/
+Templates and Default Arguments,http://www.geeksforgeeks.org/g-fact-90/
+Template Metaprogramming in C++ ,http://www.geeksforgeeks.org/template-metaprogramming-in-c/
+Template Specialization in C++,http://www.geeksforgeeks.org/template-specialization-c/
+Local Classes in C++,http://www.geeksforgeeks.org/local-class-in-c/
+Nested Classes in C++,http://www.geeksforgeeks.org/nested-classes-in-c/
+Casting operators in C++ | Set 1 (const_cast) ,http://www.geeksforgeeks.org/casting-operators-in-c-set-1-const_cast/
+Simulating final class in C++,http://www.geeksforgeeks.org/simulating-final-class-in-c/
+Const member functions in C++,http://geeksquiz.com/const-member-functions-c/
+"Comparison of Inheritance in C++ and Java,  Comparison of static keyword in C++ and Java ",http://www.geeksforgeeks.org/static-keyword-in-java/
+How does default virtual behavior differ in C++ and Java ?,http://www.geeksforgeeks.org/g-fact-43/
+Comparison of Exception Handling in C++ and Java,http://www.geeksforgeeks.org/comparison-of-exception-handling-in-c-and-java/
+Can we call an undeclared function in C++?,http://www.geeksforgeeks.org/g-fact-28/
+Can we access global variable if there is a local variable with same name? ,http://www.geeksforgeeks.org/g-fact-24/
+Can we use function on left side of an expression in C and C++?,http://www.geeksforgeeks.org/g-fact-21/
+Can namespaces be nested in C++?,http://www.geeksforgeeks.org/g-fact-62/
+Can we access private data members of a class without using a member or a friend function? ,http://www.geeksforgeeks.org/can-access-private-data-members-class-without-using-member-friend-function/
+How to make a C++ class whose objects can only be dynamically allocated? ,http://www.geeksforgeeks.org/make-class-whose-objects-can-dynamically-allocated/
+How to print “GeeksforGeeks” with empty main() in C++? ,http://www.geeksforgeeks.org/print-geeksforgeeks-empty-main-c/
+"Print 1 to 100 in C++, without loop and recursion ",http://www.geeksforgeeks.org/output-of-c-program-set-18-3/
+How to restrict dynamic allocation of objects in C++?,http://www.geeksforgeeks.org/how-to-restrict-dynamic-allocation-of-objects-in-c/
